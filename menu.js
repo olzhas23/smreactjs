@@ -3,7 +3,7 @@
 var MenuExample = React.createClass({
 	displayName: 'MenuExample',
 
-	getInitalState: function getInitalState() {
+	getInitialState: function getInitialState() {
 		return { selectedItemIndex: 0 };
 		//added
 	},

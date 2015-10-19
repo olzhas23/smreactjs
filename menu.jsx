@@ -1,5 +1,5 @@
 var MenuExample = React.createClass({
-	getInitalState: function(){
+	getInitialState: function(){
 		return ({selectedItemIndex:0})
 		//added 
 
